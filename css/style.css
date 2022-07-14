@@ -251,6 +251,9 @@ nav {
   text-align: center;
   width: 100%;
 }
+.about-me-description {
+  font-size: 1.5rem;
+}
 .section-title-about-me {
   color: var(--clr-accent);
   position: relative;
